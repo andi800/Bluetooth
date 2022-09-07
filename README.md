@@ -2,7 +2,7 @@
 Notes about Bluetooth development, measurements, log/analyzers
 
 
-# Sniffering and logging:
+# Sniffing and logging:
 - https://github.com/greatscottgadgets/ubertooth
   * Open source wireless development platform suitable for Bluetooth experimentation. Ubertooth ships with a capable BLE (Bluetooth Smart) sniffer and can sniff some data from Basic Rate (BR) Bluetooth Classic connection
 - https://greatscottgadgets.com/ 
