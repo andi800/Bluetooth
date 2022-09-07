@@ -1,0 +1,2 @@
+# Bluetooth
+Notes about Bluetooth
